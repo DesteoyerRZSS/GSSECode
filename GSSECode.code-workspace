@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "GSSECode",
+			"path": "."
+		},
+		{
+			"name": "titanic",
+			"path": "../../../Downloads/titanic"
+		}
+	],
+	"settings": {}
+}

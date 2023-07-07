@@ -2,7 +2,6 @@
 # Author: Ryan Zheng
 # Assignment: Create a Numpys project
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 data = pd.read_csv("http://web.eecs.utk.edu/~smarz1/courses/cosc505/moderna.csv")
 
